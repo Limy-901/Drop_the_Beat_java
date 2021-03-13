@@ -167,7 +167,8 @@ public class Start extends JFrame implements ActionListener {
             tfid.setEnabled(false);
             tfip.setEnabled(false);
             setVisible(false);
-			clip.stop();
+			clip.loop(0);
+			clip.close();
 			BTClient b = new BTClient();
 		 }else JOptionPane.showMessageDialog(null, "IP 주소를 정확하게 입력해주세요! ", "ERROR!", JOptionPane.WARNING_MESSAGE, iperrorimg);//ip주소 에러났을때 에러화면
 	  }else if(obj == rd1){
