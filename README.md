@@ -1,9 +1,8 @@
-
-<p>JAVA Project</p>
-<h2><b>🐱Drop The Beat🐱</b></h2>
-- 개인<br>
-- 2020.11. (3일간 작업)<br>
-- 파이썬, 터틀 라이브러리<br>
+<h2><b>🤸‍Drop The Beat🎇</b></h2>
+- 첫번째 프로젝트 ( Only JAVA )<br>
+- 팀 프로젝트 : <b>임연지</b>, 김동환, 성진희, 박진호 (총 4명)<br>
+- 2020.12. (7일간 작업)<br>
+- 담당 파트 : Socket 네트워크, 음악 재생 라이브러리, UI 제작<br>
 <Youtube> <b>https://youtu.be/DA8I7XR8q30</b>
 <hr/>
   
